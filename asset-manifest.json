@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://mariaskare.github.io/csb-svqfx/static/js/main.87da0452.chunk.js",
+    "main.js.map": "https://mariaskare.github.io/csb-svqfx/static/js/main.87da0452.chunk.js.map",
+    "runtime-main.js": "https://mariaskare.github.io/csb-svqfx/static/js/runtime-main.8393bfa9.js",
+    "runtime-main.js.map": "https://mariaskare.github.io/csb-svqfx/static/js/runtime-main.8393bfa9.js.map",
+    "static/js/2.f9882d2e.chunk.js": "https://mariaskare.github.io/csb-svqfx/static/js/2.f9882d2e.chunk.js",
+    "static/js/2.f9882d2e.chunk.js.map": "https://mariaskare.github.io/csb-svqfx/static/js/2.f9882d2e.chunk.js.map",
+    "index.html": "https://mariaskare.github.io/csb-svqfx/index.html",
+    "static/js/2.f9882d2e.chunk.js.LICENSE.txt": "https://mariaskare.github.io/csb-svqfx/static/js/2.f9882d2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8393bfa9.js",
+    "static/js/2.f9882d2e.chunk.js",
+    "static/js/main.87da0452.chunk.js"
+  ]
+}
